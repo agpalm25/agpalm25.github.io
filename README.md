@@ -23,7 +23,7 @@ if this doesn't end up linking to agpalm25.github.io like i'm hoping it will, yo
 
 for this project, i used a lot of online guides / youtube tutorials for a lot of the design elements of my project.
 
-for the four pannel effect, i looked at [this](https://youtu.be/uV8kH5RgSZU?si=rT6uV9tqgrp-NXWe) youtube video from *Web Dev Made Easy*.
+for the four panel effect, i looked at [this](https://youtu.be/uV8kH5RgSZU?si=rT6uV9tqgrp-NXWe) youtube video from *Web Dev Made Easy*.
 
 for the vertical text, i looked at [this](https://youtu.be/QhfcMingIy0?si=t7KJkzIZXQh6s3sI) youtube video from *ART-SSSergei*.
 
