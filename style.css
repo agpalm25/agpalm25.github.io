@@ -177,6 +177,8 @@ h1 {
 
 /*                      BORROWED ELEMENTS                  */
 
+/* this css gives me a template for a button that i think looks nice with the aesthetic of my website */
+/* credit to copy-paste-css.com */
 .bbutton {
     display: inline-block;
     outline: 0;
@@ -200,6 +202,8 @@ h1 {
     }
 }
 
+/* this is the css for a typewriting effect that i thought looked nice with the aesthetic of my website */
+/* this is from Geoff Graham */
 .typewriter h1 {
     overflow: hidden;
     /* Ensures the content is not revealed until the animation */

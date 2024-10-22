@@ -1,4 +1,5 @@
 // is a section in view of my user?
+// i got instructions on how to do this from the mozilla website
 
 const options = {
     root: document.querySelector("#scrollArea"),
