@@ -7,10 +7,6 @@ const options = {
     threshold: 0.8,
 };
 
-sections.forEach(section => {
-    observer.observe(section);
-});
-
 function callback(entries) {
     entries.forEach(entry => {
         if (entry.isIntersecting) {
@@ -30,6 +26,10 @@ function callback(entries) {
 const observer = new IntersectionObserver(callback, options);
 const sections = document.querySelectorAll("section");
 
+
+sections.forEach(section => {
+    observer.observe(section);
+});
 
 // for the buttons, hover or click to see project details
 
